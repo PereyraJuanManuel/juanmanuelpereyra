@@ -16,7 +16,7 @@ Soy un **Técnico en PC y Programador Junior** con experiencia en soporte técni
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📚 Formación Académica
-- **Tecnicatura Universitaria en Programación** – Universidad Tecnológica Nacional (UTN), Buenos Aires, Argentina (En curso, 80% completada, finalización 2025)
+- **Tecnicatura Universitaria en Programación** – Universidad Tecnológica Nacional (UTN), Buenos Aires, Argentina. Febrero 2026
 - **Secundario Completo** – Promedio general: 8,6
 - **Cursos y Certificaciones**:
   - Técnico de PC – Instituto Argentino de Oficios (IAO), Enero 2019
