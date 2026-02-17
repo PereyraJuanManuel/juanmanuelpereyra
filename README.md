@@ -1,6 +1,6 @@
 # ¡Hola! Soy Juan Manuel Pereyra 👋
 
-Soy un **Técnico en PC y Programador Junior** con experiencia en soporte técnico, desarrollo de software y mantenimiento informático. Actualmente cursando la **Tecnicatura Universitaria en Programación** en la Universidad Tecnológica Nacional (UTN), con el 80% completado y finalización esperada en 2025. Apasionado por la tecnología, busco oportunidades para aplicar mis conocimientos en programación y soporte, contribuyendo al crecimiento de empresas innovadoras.
+Soy un **Técnico en PC y Programador Junior** con experiencia en soporte técnico, desarrollo de software y mantenimiento informático. Busco oportunidades para aplicar mis conocimientos en programación y soporte, contribuyendo al crecimiento de empresas innovadoras.
 
 ## 🚀 Habilidades Técnicas
 - **Lenguajes de Programación**: Java, HTML, CSS, JavaScript, SQL
