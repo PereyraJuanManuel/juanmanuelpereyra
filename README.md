@@ -23,9 +23,8 @@ Soy un **Técnico en PC y Programador Junior** con experiencia en soporte técni
   - Programador – Dirección General de Cultura y Educación, Provincia de Buenos Aires, Octubre 2019 (363 horas)
 
 ## 💼 Experiencia y Proyectos
-### Proyecto Académico: Sistema de Gestión de Clientes (2023)
-Desarrollé una aplicación de escritorio en **Java** con **MySQL** para registro y control de clientes. Implementé operaciones CRUD (Crear, Leer, Actualizar, Eliminar) y conexión segura a base de datos, optimizando la gestión de datos para un rendimiento eficiente.
-- **Repositorio**: [Enlace a tu repo en GitHub, si lo subes]
+### Proyecto Académico: Gestión de Stock (2025)
+permite administrar el inventario, generar reportes y trabajar de forma segura con un sistema de inicio de sesión con distintos permisos de usuario. También cuenta con alertas automáticas por productos con bajo stock o próximos a vencer, y permite el uso de códigos de barras. La interfaz está organizada por pestañas, donde cada sección es accesible según el permiso del usuario.
 - **Tecnologías**: Java, MySQL, NetBeans
 
 ### Soporte Técnico Freelance (2019-Presente)
